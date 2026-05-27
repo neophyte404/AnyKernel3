@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=topaz
 device.name2=tapas
 device.name3=xun
-supported.versions=13 - 14.1
+supported.versions=
 '; } # end properties
 
 # shell variables
